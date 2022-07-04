@@ -1,4 +1,4 @@
-# DDD-Prisma-TS
+# DDD-Sequelize-TS-Boilerplate
 
 <div id="top"></div>
 
@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/HABIBKAGHAS/DDD-Prisma-TS">
+  <a href="https://github.com/HABIBKAGHAS/DDD-Sequelize-TS-Boilerplate">
     <img src="images/logo.png" alt="Logo" width="152" height="80">
   </a>
 </div>
@@ -88,7 +88,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/HABIBKAGHAS/DDD-Prisma-TS.git
+   git clone https://github.com/HABIBKAGHAS/DDD-Sequelize-TS-Boilerplate.git
    ```
 2. Install packages with yarn
    ```sh
@@ -124,7 +124,7 @@ Don't forget to give the project a star! Thanks again!
 
 Habib Kaghas - [@habib79243709](https://twitter.com/habib79243709) - habibkaghas@gmail.com
 
-Project Link: [https://github.com/HABIBKAGHAS/DDD-Prisma-TS](https://github.com/HABIBKAGHAS/DDD-Prisma-TS)
+Project Link: [https://github.com/HABIBKAGHAS/DDD-Sequelize-TS-Boilerplate](https://github.com/HABIBKAGHAS/DDD-Sequelize-TS-Boilerplate)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -135,4 +135,3 @@ Project Link: [https://github.com/HABIBKAGHAS/DDD-Prisma-TS](https://github.com/
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/habib-kaghas/
-[product-screenshot]: images/screenshot.png
