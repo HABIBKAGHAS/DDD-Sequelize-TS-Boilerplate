@@ -10,7 +10,8 @@
     "start": "ts-node server.ts",
     "db:createMigration": "npx sequelize migration:create --name testMigration",
     "db:migrateDev:migrate": "npx sequelize db:migrate --config \"migrations/config/config.json\"  --env  development",
-    "db:migrateDev:undo": "npx sequelize db:migrate:undo --config 'migrations/config/config.json'  --env development"
+    "db:migrateDev:undo": "npx sequelize db:migrate:undo --config 'migrations/config/config.json'  --env development",
+    "Build": "tsc --project tsconfig.json"
   },
   "dependencies": {
     "body-parser": "^1.19.2",
