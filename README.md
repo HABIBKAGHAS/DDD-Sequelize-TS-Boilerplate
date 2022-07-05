@@ -70,10 +70,34 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To download all dependencies use: 
 * Yarn
   ```sh
    yarn
+  ```
+  
+To build it to Javascript files use: 
+* Yarn Build
+  ```sh
+   yarn build
+  ```
+    
+To create migrations use:
+* Yarn run db:createMigration
+  ```sh
+   yarn run db:createMigration
+  ```
+  
+To migrate your changes use:
+* Yarn run db:migrateDev:migrate
+  ```sh
+   yarn run db:migrateDev:migrate
+  ```
+
+To undo your migration use:
+* Yarn run db:migrateDev:undo
+  ```sh
+   yarn run db:migrateDev:undo
   ```
 
 ### Installation
